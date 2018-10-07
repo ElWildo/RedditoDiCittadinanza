@@ -17,7 +17,7 @@ class StocaScreen extends React.Component {
         return (
           <View style={styles.container}>
               <Text
-                style={styles.buttonText}
+                style={styles.text}
               >Inserisci qui il tuo codice fiscale</Text>
               <TextInput
                 style={styles.textinput}
